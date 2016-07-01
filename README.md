@@ -13,12 +13,12 @@
 - [x] 檔案備份
 - [x] 硬碟分割（ Windows ，資料 D 槽， Ubuntu ）
 - [x] Windows 安裝
+- [x] 製作 Windows 系統還原檔（剛重灌好的狀態，尚未安裝驅動）
 - [x] Ubuntu 安裝（語系選英文）
-- [ ] 在 Ubuntu 下把 Windows 用的驅動程式丟到 D 槽
-- [ ] Windows 驅動程式安裝
-- [ ] 製作 Windows 系統還原檔
-- [ ] Ubuntu 環境設定
-- [ ] 安裝 Chrome
+- [x] 在 Ubuntu 下把 Windows 用的驅動程式丟到 D 槽
+- [x] Windows 驅動程式安裝
+- [x] 製作 Windows 系統還原檔（安裝完基本的驅動程式，老電腦這些驅動程式大概不太會更新）
+- [ ] Ubuntu 安裝 Chrome
 - [ ] Ubuntu Terminal 調整
 - [ ] Ubuntu 裝 Atom
 - [ ] 裝 nodejs

@@ -1,4 +1,6 @@
-# 安裝 git
+# Ubuntu 16.04 安裝筆記
+
+## 安裝 git
 
 sudo apt-get install git-core
 
@@ -15,10 +17,23 @@ xclip -sel clip < ~/.ssh/id_rsa.pub
 ssh -T git@github.com
 
 
-# 在Gnome裡手動調整語系何輸入法
+### Git Aware Prompt
+參考：https://github.com/jimeh/git-aware-prompt
+
+mkdir ~/.bash
+cd ~/.bash
+git clone git://github.com/jimeh/git-aware-prompt.git
+
+
+## 在Gnome裡手動調整語系何輸入法
 
 ### 安裝 ibus 裡的新酷音
 sudo apt-get install ibus-chewing
 
 
-# 手動安裝 Atom
+## 手動安裝
+
+- Atom
+- Chrome
+
+deb檔可能會遇到執行有問題，系統update完之後就可以順利執行。

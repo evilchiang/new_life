@@ -20,8 +20,11 @@
 - [x] 製作 Windows 系統還原檔（安裝完基本的驅動程式，老電腦這些驅動程式大概不太會更新）
 - [x] Ubuntu 裡安裝 git
 - [x] Ubuntu 設定 git ssh
-- [ ] Ubuntu Terminal 調整
-- [ ] Ubuntu 裡安裝 Atom
-- [ ] Ubuntu 裡安裝 Chrome
+- [x] Ubuntu 裡安裝 Atom
+- [x] Ubuntu 裡安裝 Chrome
+- [x] Ubuntu Terminal 調整
 - [ ] Ubuntu 裡安裝 nodejs
 - [ ] Ubuntu 裡安裝 hexo
+
+
+test

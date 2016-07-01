@@ -6,11 +6,20 @@
 
 ## 待辦
 
+老電腦N82JQ重灌：
+
+- [x] 準備 Windows 安裝媒體
+- [x] 準備 Ubuntu 16.04 安裝用 USB 碟
 - [x] 檔案備份
-- [ ] 硬碟分割
-- [ ] Windows 安裝
-- [ ] Ubuntu 安裝
+- [x] 硬碟分割（ Windows ，資料 D 槽， Ubuntu ）
+- [x] Windows 安裝
+- [x] Ubuntu 安裝（語系選英文）
+- [ ] 在 Ubuntu 下把 Windows 用的驅動程式丟到 D 槽
+- [ ] Windows 驅動程式安裝
+- [ ] 製作 Windows 系統還原檔
 - [ ] Ubuntu 環境設定
+- [ ] 安裝 Chrome
+- [ ] Ubuntu Terminal 調整
 - [ ] Ubuntu 裝 Atom
-- [ ] 裝nodejs
-- [ ] 裝hexo
+- [ ] 裝 nodejs
+- [ ] 裝 hexo

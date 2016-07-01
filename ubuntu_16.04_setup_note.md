@@ -16,13 +16,24 @@ sudo apt-get install xclip
 xclip -sel clip < ~/.ssh/id_rsa.pub
 ssh -T git@github.com
 
-
 ### Git Aware Prompt
 參考：https://github.com/jimeh/git-aware-prompt
 
 mkdir ~/.bash
 cd ~/.bash
 git clone git://github.com/jimeh/git-aware-prompt.git
+
+
+## 安裝 nodejs, npm
+
+sudo apt-get update  
+sudo apt-get install nodejs  
+sudo ln -s /usr/bin/nodejs /usr/bin/node  
+sudo apt-get install npm  
+
+### 安裝 hexo
+
+npm install hexo-cli -g 
 
 
 ## 在Gnome裡手動調整語系何輸入法

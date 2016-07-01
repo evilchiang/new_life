@@ -23,8 +23,7 @@
 - [x] Ubuntu 裡安裝 Atom
 - [x] Ubuntu 裡安裝 Chrome
 - [x] Ubuntu Terminal 調整
-- [ ] Ubuntu 裡安裝 nodejs
-- [ ] Ubuntu 裡安裝 hexo
-
-
-test
+- [x] Ubuntu 裡安裝 nodejs
+- [x] Ubuntu 裡安裝 npm
+- [x] Ubuntu 裡安裝 hexo
+- [ ] Windows 安裝防毒軟體

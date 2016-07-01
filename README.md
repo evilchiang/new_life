@@ -19,8 +19,9 @@
 - [x] Windows 驅動程式安裝
 - [x] 製作 Windows 系統還原檔（安裝完基本的驅動程式，老電腦這些驅動程式大概不太會更新）
 - [ ] Ubuntu 裡安裝 git
+- [ ] Ubuntu 設定 git ssh
+- [ ] Ubuntu Terminal 調整
 - [ ] Ubuntu 裡安裝 Atom
 - [ ] Ubuntu 裡安裝 Chrome
-- [ ] Ubuntu Terminal 調整
 - [ ] Ubuntu 裡安裝 nodejs
 - [ ] Ubuntu 裡安裝 hexo

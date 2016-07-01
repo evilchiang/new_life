@@ -5,6 +5,8 @@
 
 ## 待辦
 
-- [ ] PC 重灌。
-- [ ] Ubuntu 環境設定。
-- [ ] Ubuntu 裝 Atom 。
+- [ ] PC 重灌
+- [ ] Ubuntu 環境設定
+- [ ] Ubuntu 裝 Atom
+- [ ] 裝nodejs
+- [ ] 裝hexo

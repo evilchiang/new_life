@@ -18,8 +18,8 @@
 - [x] 在 Ubuntu 下把 Windows 用的驅動程式丟到 D 槽
 - [x] Windows 驅動程式安裝
 - [x] 製作 Windows 系統還原檔（安裝完基本的驅動程式，老電腦這些驅動程式大概不太會更新）
-- [ ] Ubuntu 裡安裝 git
-- [ ] Ubuntu 設定 git ssh
+- [x] Ubuntu 裡安裝 git
+- [x] Ubuntu 設定 git ssh
 - [ ] Ubuntu Terminal 調整
 - [ ] Ubuntu 裡安裝 Atom
 - [ ] Ubuntu 裡安裝 Chrome

@@ -18,3 +18,8 @@ Ctrl + W | Cut one word backwards using white space as delimiter | 從目前游�
 Ctrl + Y | Paste whatever was cut by the last cut command | -
 Ctrl + T | Swap the last two characters before the cursor | -
 Tab | Auto-complete files and folder names | -
+
+
+## CORE COMMANDS
+
+To be continued...

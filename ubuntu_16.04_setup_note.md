@@ -1,5 +1,9 @@
 # Ubuntu 16.04 安裝筆記
 
+## 設備
+
+- ASUS N82JQ
+
 ## 安裝 git
 
 sudo apt-get install git-core
@@ -33,7 +37,7 @@ sudo apt-get install npm
 
 ### 安裝 hexo
 
-npm install hexo-cli -g 
+npm install hexo-cli -g
 
 
 ## 在Gnome裡手動調整語系何輸入法

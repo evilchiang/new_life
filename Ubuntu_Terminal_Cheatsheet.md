@@ -8,7 +8,7 @@
 ## SHORTCUTS
 
 Key/Command|Description|中文備註
------------|-----------
+-----------|-----------|--------
 Ctrl + L | Clear the Screen | 清除螢幕
 Ctrl + A | Go to the beginning of the line you are currently typing on. | 到這行的起始端
 Ctrl + E | Go to the end of the line you are currently typing on. | 到這行的結束端

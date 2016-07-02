@@ -51,9 +51,8 @@
 
 ### 安裝 Atom
 
-> 永远不要参与编程语言之间或编辑器之间的比较争论
-
-> 平息争论的能力才是更有价值的能力，若是不能平息争论，就不要参与争论了，因为参与无法平息的争论，本质上就是，耗费了时间耗费了生命却没有任何结果
+> - 永远不要参与编程语言之间或编辑器之间的比较争论
+> - 平息争论的能力才是更有价值的能力，若是不能平息争论，就不要参与争论了，因为参与无法平息的争论，本质上就是，耗费了时间耗费了生命却没有任何结果
 
 
 
@@ -65,8 +64,8 @@ atom-shortcuts package
 
 - [ ] 阅读 Atom 官方网站
 
-> [Atom Cheatsheets](http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf) 
-> [Atom Flight Manual](http://flight-manual.atom.io/)
+> - [Atom Cheatsheets](http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf)
+> - [Atom Flight Manual](http://flight-manual.atom.io/)
 
 
 ### 安装 Dash

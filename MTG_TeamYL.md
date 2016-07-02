@@ -1,4 +1,4 @@
-# Team Yilan Assemble!
+# MTG: Team Yilan Assemble!
 
 ## Practice/Play Formats
 

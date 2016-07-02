@@ -14,3 +14,17 @@
 
 ### Git Aware Prompt
 參考：https://github.com/jimeh/git-aware-prompt
+
+
+## 命令行（Command Line）的使用
+
+>ls #罗列当前目录下的内容
+cd #更换工作目录
+pwd #现实当前完整工作目录
+touch #创建一个文件
+mv #移动/更名文件或目录
+rm #删除文件活目录
+nano #使用 nano 编辑纯文本文件
+open #打开一个文件，就好像你在 Finder 里双击那个文件图标一样
+clear #清空屏幕
+sudo #用管理员身份去执行一个命令

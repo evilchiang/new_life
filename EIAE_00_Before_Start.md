@@ -1,5 +1,10 @@
 # Everyone is an Engineer
 
+## 本章參考
+
+- [开始之前…… ](http://xiaolai.li/2016/06/15/makecs-before-starting-anything/)
+
+
 ## 1. OS: Ubuntu
 
 - Practice contents mentioned in website: "xiaolai.li".

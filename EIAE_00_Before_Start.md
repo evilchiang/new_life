@@ -1,6 +1,6 @@
-# Everyone is an Engineer
+# EIAE 开始之前
 
-## 原文閱讀
+## 原文
 
 - [开始之前…… ](http://xiaolai.li/2016/06/15/makecs-before-starting-anything/)
 

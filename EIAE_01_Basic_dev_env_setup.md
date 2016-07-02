@@ -71,3 +71,11 @@ atom-shortcuts package
 ### 安装 Dash
 
 (For Mac, Ubuntu 下的類似工具？或者不必要？)
+
+
+## 总结
+
+### 重点要看文档：
+
+- Terminal 命令行文档
+- Atom 官方教程的前两章。

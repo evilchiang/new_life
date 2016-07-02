@@ -3,7 +3,7 @@
 ## 版本註記及參考資料
 
 - Ubuntu Version: 16.04
-- I checked from the list: [Terminal Cheatsheet for Mac (Basics)](https://github.com/0nn0/terminal-mac-cheatsheet)
+- English description copied from the list: [Terminal Cheatsheet for Mac (Basics)](https://github.com/0nn0/terminal-mac-cheatsheet)
 
 ## SHORTCUTS
 

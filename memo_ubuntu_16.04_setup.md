@@ -12,7 +12,7 @@ git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 git config --global color.ui true
 
-### SSH
+### 設定 ssh
 參考：https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
@@ -20,13 +20,13 @@ sudo apt-get install xclip
 xclip -sel clip < ~/.ssh/id_rsa.pub
 ssh -T git@github.com
 
-### Git Aware Prompt
-參考：https://github.com/jimeh/git-aware-prompt
+### 設定 Git Aware Prompt
 
 mkdir ~/.bash
 cd ~/.bash
 git clone git://github.com/jimeh/git-aware-prompt.git
 
+其他手動設定參考來源：https://github.com/jimeh/git-aware-prompt
 
 ## 安裝 nodejs, npm
 
@@ -40,7 +40,7 @@ sudo apt-get install npm
 npm install hexo-cli -g
 
 
-## 在Gnome裡手動調整語系何輸入法
+## 在Gnome裡手動調整語系和輸入法
 
 ### 安裝 ibus 裡的新酷音
 sudo apt-get install ibus-chewing
@@ -51,4 +51,4 @@ sudo apt-get install ibus-chewing
 - Atom
 - Chrome
 
-deb檔可能會遇到執行有問題，系統update完之後就可以順利執行。
+deb檔可能會遇到執行有問題，系統update完之後就可以順利執行。這裡的安裝能用 script 一起完成執行？

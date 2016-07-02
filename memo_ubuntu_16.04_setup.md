@@ -48,7 +48,18 @@ sudo apt-get install ibus-chewing
 
 ## 手動安裝
 
-- Atom
-- Chrome
+### Atom
+
+- 從[ Atom 官網 ](https://atom.io/)下載 .deb 檔，手動執行。
+- 尚未測試，以指令列下載並安裝：
+
+```
+wget https://atom.io/download/deb
+sudo dpkg -i deb
+rm -rf deb
+```
+
+
+- 手動安裝 Chrome
 
 deb檔可能會遇到執行有問題，系統update完之後就可以順利執行。這裡的安裝能用 script 一起完成執行？

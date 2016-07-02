@@ -77,5 +77,5 @@ atom-shortcuts package
 
 ### 重点要看文档：
 
-- Terminal 命令行文档
-- Atom 官方教程的前两章。
+- [ ] Terminal 命令行文档
+- [ ] Atom 官方教程的前两章。

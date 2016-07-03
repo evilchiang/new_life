@@ -4,47 +4,61 @@
 
 - ASUS N82JQ
 
+
 ## 安裝 git
 
+```
 sudo apt-get install git-core
 
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 git config --global color.ui true
+```
 
 ### 設定 ssh
 參考：https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
+```
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 sudo apt-get install xclip
 xclip -sel clip < ~/.ssh/id_rsa.pub
 ssh -T git@github.com
+```
 
 ### 設定 Git Aware Prompt
 
+```
 mkdir ~/.bash
 cd ~/.bash
 git clone git://github.com/jimeh/git-aware-prompt.git
+```
 
 其他手動設定參考來源：https://github.com/jimeh/git-aware-prompt
 
+
 ## 安裝 nodejs, npm
 
+```
 sudo apt-get update  
 sudo apt-get install nodejs  
 sudo ln -s /usr/bin/nodejs /usr/bin/node  
 sudo apt-get install npm  
+```
 
 ### 安裝 hexo
 
+```
 npm install hexo-cli -g
+```
 
 
 ## 在Gnome裡手動調整語系和輸入法
 
 ### 安裝 ibus 裡的新酷音
-sudo apt-get install ibus-chewing
 
+```
+sudo apt-get install ibus-chewing
+```
 
 ## 手動安裝
 
@@ -58,7 +72,6 @@ wget https://atom.io/download/deb
 sudo dpkg -i deb
 rm -rf deb
 ```
-
 
 - 手動安裝 Chrome
 

@@ -78,6 +78,11 @@ rm -rf deb
 deb檔可能會遇到執行有問題，系統update完之後就可以順利執行。這裡的安裝能用 script 一起完成執行？
 
 
+## 安裝 gimp
+
+sudo apt-get install gimp
+
+
 ## Ubuntu gnome-terminal Profile Reset
 
 https://github.com/Anthony25/gnome-terminal-colors-solarized

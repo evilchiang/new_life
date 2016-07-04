@@ -5,6 +5,17 @@
 - ASUS N82JQ
 
 
+## 設定 NVIDIA Driver
+
+找 Additional Driver
+
+
+## 安裝 ruby
+
+```
+sudo apt-get install ruby
+```
+
 ## 安裝 git
 
 ```
@@ -78,14 +89,9 @@ rm -rf deb
 deb檔可能會遇到執行有問題，系統update完之後就可以順利執行。這裡的安裝能用 script 一起完成執行？
 
 
-## 安裝 gimp
+## 安裝 gimp 繪圖，修圖用
 
 sudo apt-get install gimp
-
-
-## 設定 NVIDIA Driver
-
-找 Additional Driver
 
 
 ## Ubuntu gnome-terminal Profile Reset

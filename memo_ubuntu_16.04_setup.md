@@ -83,6 +83,11 @@ deb檔可能會遇到執行有問題，系統update完之後就可以順利執�
 sudo apt-get install gimp
 
 
+## 設定 NVIDIA Driver
+
+找 Additional Driver
+
+
 ## Ubuntu gnome-terminal Profile Reset
 
 https://github.com/Anthony25/gnome-terminal-colors-solarized

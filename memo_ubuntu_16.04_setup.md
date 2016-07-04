@@ -114,3 +114,8 @@ Modify the ~/.bashrc file and add:
 ```
 cd /directory/of/your/choice
 ```
+
+
+## Chrome hotkey
+
+https://support.google.com/chrome/answer/157179?hl=en

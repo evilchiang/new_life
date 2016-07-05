@@ -119,3 +119,14 @@ cd /directory/of/your/choice
 ## Chrome hotkey
 
 https://support.google.com/chrome/answer/157179?hl=en
+
+
+## Open file with specific encoding
+
+笨方法：如果只是純文字檔，用browser開。
+
+
+## Ubuntu 下，Chrome 列印 Google Doc 文件
+
+列印沒問題，無須另外安裝驅動程式
+印表機 HP LaserJet M1005 MFP

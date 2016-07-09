@@ -7,7 +7,7 @@
 PRC人做的 PCMan 的 Clone？也蠻好用的。
 
 ## terminal
-直接用 Terminal 連線到 ptt 之類使用 big5 的 bbs 站的指令：
+如果不想手動調整任何語系的設定，直接用 Terminal 連線到 ptt 之類使用 big5 的 bbs 站的指令：
 ```
 luit -encoding big5 telnet ptt.cc
 ```

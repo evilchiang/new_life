@@ -15,14 +15,3 @@
 
 
 ## memo
-
-### hexo
-
-- github page 製作另一個 branch: hexo ，並且設為預設。
-- 在 branch: hexo ，建立 hexo blog。
-
-```
-hexo init
-npm install
-npm install hexo-deployer-git --save
-```

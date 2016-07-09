@@ -1,6 +1,8 @@
 ## Description
 
 - Memos, notes and Cheatsheets.
+- 20160709，接下來逐步把這個 repo 的東西整理到 [blog](http://hanscholem.tw/) 裡。
+
 
 ## 2016 下半年，新生
 

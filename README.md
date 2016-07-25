@@ -18,3 +18,5 @@
 > - 項目二
 > - 項目三
 > - 項目四
+
+嗯，確認，Github flavored Markdown 可以在引用裡面有項目符號。
